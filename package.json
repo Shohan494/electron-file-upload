@@ -1,12 +1,12 @@
 {
   "name": "electron-file-upload",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "File Upload in Electron",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
-  "author": "",
+  "author": "Shohanul Alam",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
